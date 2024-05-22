@@ -1,5 +1,4 @@
-# The-Snake-Game
-# Snake Eater Game
+# 🐍 Snake Eater Game
 
 Welcome to the classic Snake game, implemented using Pygame! Control the snake to eat the food and grow longer. Avoid running into the walls or the snake's own body. Enjoy playing!
 
