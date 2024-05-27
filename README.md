@@ -69,7 +69,7 @@ frame_size_y = 580
 
 ## Screenshots
 
-![Gameplay Screenshot](https://via.placeholder.com/720x580.png?text=Gameplay+Screenshot)
+![1](file:///var/folders/8g/hmnn6_m11lj3t1p3clqdzt7c0000gn/T/TemporaryItems/NSIRD_screencaptureui_6VgYXh/Screenshot%202024-05-27%20at%204.52.14%E2%80%AFPM.png)
 
 ## Contributing
 
